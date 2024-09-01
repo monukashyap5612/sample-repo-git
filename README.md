@@ -1,1 +1,1 @@
-# sample-repo-git
+This is my git assignment
